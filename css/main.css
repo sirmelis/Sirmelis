@@ -80,7 +80,7 @@
   
   .hero-subheading {
     font-family: Teko, sans-serif;
-    color: #d9b787;
+    color: #fcc133;
     font-size: 56px;
     line-height: 1.5;
     font-weight: 500;
@@ -221,7 +221,7 @@
   .divider-small {
     width: 24px;
     height: 3px;
-    background-color: #d9b787;
+    background-color: #fcc133;
   }
   
   .social-button {
