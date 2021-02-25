@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://www.sirmelis.com/sitemap.xml
+Sitemap: https://www.sirmelis.lt/sitemap.xml
